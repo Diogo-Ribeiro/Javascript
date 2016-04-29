@@ -1,1 +1,1 @@
-console.log("totaly weird");	
+console.log("real fucked up!");
